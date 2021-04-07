@@ -8,4 +8,4 @@
 
 ## Education
 * Kennesaw State University ( 2016 - 2020 )
-* * Bachelors of Science in Computer Science
+  * Bachelors of Science in Computer Science

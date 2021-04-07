@@ -17,8 +17,8 @@ I am an recent grad who is still very eager to learn! I love working with backen
 
 Firearm Museum
 * I created a database of firearms that would allow interested users to easily learn about any firearm that was present in the database. I had all of the Firearm objects broken down into smaller components that allowed me to give more information about each component in more detail as well as add new firearms to the database in a modular way.
- * Typescript
- * Angular/HTML/CSS
- * Postgres/JDBC
- * Springboot
- * Maven
+  * Typescript
+  * Angular/HTML/CSS
+  * Postgres/JDBC
+  * Springboot
+  * Maven

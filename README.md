@@ -6,4 +6,6 @@
 * LinkedIn : https://www.linkedin.com/in/jason-williams-0a5895203/
 * Github : https://github.com/Jason-Williams-github
 
-## Summary
+## Education
+* Kennesaw State University ( 2016 - 2020 )
+* * Bachelors of Science in Computer Science

@@ -27,5 +27,8 @@ I am an recent grad who is still very eager to learn! I love working with backen
 
 ## Experience
 
-### Talent Path (Full-Stack Engineer. December 2020 - present )
+#### Talent Path (Full-Stack Engineer. December 2020 - present )
+
+* Full stack engineer at Talent Path where we would be assigned to do contracting work for external companies. While not off on an assignment we would be constantly learning new skills in different languages or architecture as well as upskilling our already existing skills.
+* Worked on solo projects as well as team based ones using Zoom and Git as the main forms of communication and cooperation.
 

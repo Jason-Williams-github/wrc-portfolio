@@ -1,5 +1,7 @@
 # Jason William's Portfolio
 
+### [Education]() [About Me]() [Projects]() [Experience]()
+
 ## Contact Information
 * Email : jwilliams@TalentPath.com
 * Phone : 706-506-3471
@@ -11,7 +13,7 @@
   * Bachelors of Science in Computer Science
 
 ## About Me
-I am an recent grad who is still very eager to learn! I love working with backend archetecture, as well as databases.
+I am a Full-stack Engineer that is always looking to grow my skills. I currently work with Talent Path and I love all of the opertunities that they provide for me. 
 
 ## Projects
 

@@ -1,6 +1,6 @@
 # Jason William's Portfolio
 
-### [Education]() [About Me]() [Projects]() [Experience]()
+### [Education](education) [About Me](about-me) [Projects](projects) [Experience](experience)
 
 ## Contact Information
 * Email : jwilliams@TalentPath.com

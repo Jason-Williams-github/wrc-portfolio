@@ -1,4 +1,4 @@
-<linkrel="stylesheet" type="text/css" media="all" href="./style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 # Jason William's Portfolio
 
 ### [Education](#education) [About Me](#about-me) [Projects](#projects) [Experience](#experience)

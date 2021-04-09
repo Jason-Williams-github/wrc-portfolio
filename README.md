@@ -27,6 +27,16 @@ I am a Full-stack Engineer that is always looking to grow my skills. I currently
 
 ![photo of firearm database](https://i.imgur.com/15HlJcm.png)
 
+### Find My Paradise
+* As a team we created a deployed a mock AirBnB. Everyone was assigned components for the project and were tasked with making the front and backend of these components. I was in charge of the host component which gathered information from an associated listing object and populated the page with the correct information.
+  * JavaScript
+  * Vue/HTML/CSS
+  * MySQL
+  * JPA/Hibernate
+  * AWS
+
+![photo of mock AirBnB](https://i.imgur.com/RnT0E1X.png)
+
 ## Experience
 
 #### Talent Path (Full-Stack Engineer. December 2020 - present )
